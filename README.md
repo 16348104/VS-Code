@@ -1,2 +1,2 @@
 # VS-Code
-初学者出门
+Python初学者出门
